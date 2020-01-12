@@ -1,0 +1,10 @@
+body {
+  background-color: lightgreen;
+}
+h3 { 
+  font-family: verdana; 
+ } 
+ p {
+ 	font-weight: bold;
+ 	color: darkblue; 
+ }
